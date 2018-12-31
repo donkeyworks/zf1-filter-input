@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-filter-input",
+    "name": "donkeyworks/zendframework1-filter-input",
     "description": "Zend Framework 1 Filter_Input component",
     "type": "library",
     "keywords": [
@@ -12,11 +12,11 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.0.0",
-        "diablomedia/zendframework1-loader": "^1.0.0",
-        "diablomedia/zendframework1-registry": "^1.0.0",
-        "diablomedia/zendframework1-translate": "^1.0.0",
-        "diablomedia/zendframework1-validate": "^1.0.0",
-        "diablomedia/zendframework1-filter": "^1.0.0"
+        "donkeyworks/zendframework1-loader": "^1.0.0",
+        "donkeyworks/zendframework1-registry": "^1.0.0",
+        "donkeyworks/zendframework1-translate": "^1.0.0",
+        "donkeyworks/zendframework1-validate": "^1.0.0",
+        "donkeyworks/zendframework1-filter": "^1.0.0"
     },
     "autoload": {
         "classmap": [
